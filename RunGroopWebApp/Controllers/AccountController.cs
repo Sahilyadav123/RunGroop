@@ -124,5 +124,6 @@ namespace RunGroopWebApp.Controllers
         }
 
     <div>hello everyone</div>
+    <div>hello everyone 2</div>
     }
 }
